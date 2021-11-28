@@ -59,4 +59,4 @@
  - [Top Role Everywhere](https://github.com/moonlightperson/BetterDiscordAddons/tree/master/Plugins/TopRoleEverywhere) - Adds the highest Role of a User as a Tag
  - [Translator](https://github.com/moonlightperson/BetterDiscordAddons/tree/master/Plugins/Translator) - Allows you to translate Messages and your outgoing Messages within Discord
  - [User Notes](https://github.com/moonlightperson/BetterDiscordAddons/tree/master/Plugins/UserNotes) - Allows you to write User Notes locally
- - [Write UpperCase](https://github.com/MoonLightPerson/BetterDiscordAddons/tree/master/Plugins/WriteUpperCase) - Changes the first Letter of each Sentence in Message Inputs to Uppercase
+ - [Write UpperCase](https://github.com/moonlightperson/BetterDiscordAddons/tree/master/Plugins/WriteUpperCase) - Changes the first Letter of each Sentence in Message Inputs to Uppercase
