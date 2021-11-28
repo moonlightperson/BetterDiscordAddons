@@ -12,3 +12,4 @@
  - [Emoji Replace](https://github.com/moonlightperson/BetterDiscordAddons/tree/master/Themes/EmojiReplace) - Replaces Discord's Emojis with Emojis of a different Provider (Apple, Facebook...)
  - [Server Columns](https://github.com/moonlightperson/BetterDiscordAddons/tree/master/Themes/ServerColumns) - Changes the Server List to a grid-like Structure that allows any Amount of Columns
  - [Settings Modal](https://github.com/moonlightperson/BetterDiscordAddons/tree/master/Themes/SettingsModal) - Turns Settings Windows like User-/Channel-/Serversettings and Boost Overview into Modals
+ - [ShilkinTheme](https://github.com/moonlightperson/BetterDiscordAddons/tree/master/Themes/ShilkinTheme) - Shilkin's test theme
