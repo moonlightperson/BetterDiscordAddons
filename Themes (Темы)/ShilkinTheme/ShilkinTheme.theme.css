@@ -1,0 +1,35 @@
+/**
+ * @name ShilkinTheme
+ * @description Тема созданная шилкиным для теста всякой дичи
+ * @author moonlight#1342
+ * @version 1.0.0
+ * @authorId 695299229551427686
+ * @invite uNrknTUE4Y
+ * @website https://vk.com/moon.light7777
+ * @donate https://www.qiwi.com/n/SHILKIN7777
+ */
+
+
+.holidayHeroContainer-252amJ {
+    background: linear-gradient(102.85deg,#ff001e79 2.16%,#3584de79 54.82%,#42f4ff 99.42%);
+}
+.holidayPromotionBackground-3A9hk1 {
+    background: linear-gradient(90deg,#ff001e79,#3584de79);
+}
+.side-8zPYf6 .item-PXvHYJ {
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(18,22,60,1) 2%, rgba(61,28,64,1) 98%, rgba(0,0,0,1) 100%);
+    color: #e8e8e8;
+}
+.header-2RyJ0Y {
+    color: #b1b1b1;
+}
+.sidebarRegionScroller-3MXcoP {
+    background: linear-gradient(135deg, rgba(31,35,65,1) 0%, rgba(82,16,16,1) 100%);
+}
+.contentRegionShownSidebar-2VepaU {
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(54,33,88,1) 2%, rgba(111,18,72,1) 100%);
+}
+@keyframes snowfall {
+    0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+    100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
+}
