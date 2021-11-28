@@ -17,7 +17,3 @@
 .contentRegionShownSidebar-2VepaU {
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(54,33,88,1) 2%, rgba(111,18,72,1) 100%);
 }
-@keyframes snowfall {
-    0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-    100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
-}
