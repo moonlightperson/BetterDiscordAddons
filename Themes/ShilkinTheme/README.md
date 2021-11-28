@@ -11,5 +11,4 @@
 
 Shilkin's test theme
 
-
 ![cover](https://moonlightperson.github.io/BetterDiscordAddons/Themes/ShilkinTheme/_res/cover.png)
